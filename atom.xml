@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.lzdgames.cn/"/>
-  <updated>2020-05-23T11:04:04.945Z</updated>
+  <updated>2020-05-23T17:39:35.954Z</updated>
   <id>http://blog.lzdgames.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.lzdgames.cn/2020/05/hello-world/"/>
     <id>http://blog.lzdgames.cn/2020/05/hello-world/</id>
     <published>2020-05-23T11:04:04.945Z</published>
-    <updated>2020-05-23T11:04:04.945Z</updated>
+    <updated>2020-05-23T17:39:35.954Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,18 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;欢迎来到我的小站！&lt;/p&gt;
+
         
       
     
     </summary>
     
     
+      <category term="日记" scheme="http://blog.lzdgames.cn/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="随想" scheme="http://blog.lzdgames.cn/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
