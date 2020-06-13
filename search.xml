@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/05/hello-world/</url>
-    <content><![CDATA[<p>欢迎来到我的小站！</p>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>随想</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>单独在夜间游玩时会获得额外娱乐价值——eversion超级小花</title>
     <url>/2020/06/EversionHD/</url>
     <content><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">本文写自2014年12月，首次发表于steamCN（现Keylol）论坛，后被转载至其他游戏门户网站。注：本文包含大量剧透。</span><br></pre></td></tr></table></figure>
@@ -41,6 +29,18 @@
       </categories>
       <tags>
         <tag>超级小花</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/05/hello-world/</url>
+    <content><![CDATA[<p>欢迎来到我的小站！</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>随想</tag>
       </tags>
   </entry>
   <entry>
@@ -271,11 +271,15 @@
 <p>* 正常显示星号</p>
 <hr>
 <h3 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h3><p>typora不仅可以画流程图，还可以画时序图、甘特图。因为流程图对我来说基本用不上，所以在此仅举例标准流程图画法：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">\&#96;&#96;&#96;flow</span><br><span class="line">st&#x3D;&gt;start: 开始框</span><br><span class="line">op&#x3D;&gt;operation: 处理框</span><br><span class="line">cond&#x3D;&gt;condition: 判断框(是或否?)</span><br><span class="line">sub1&#x3D;&gt;subroutine: 子流程</span><br><span class="line">io&#x3D;&gt;inputoutput: 输入输出框</span><br><span class="line">e&#x3D;&gt;end: 结束框</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;io-&gt;e</span><br><span class="line">cond(no)-&gt;sub1(right)-&gt;op</span><br><span class="line">\</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">(因为防止被识别为代码区块 所以在两边的引号前加了反斜杠，实际编写不需要加反斜杠)</span><br><span class="line"></span><br><span class="line">效果：</span><br><span class="line"></span><br><span class="line">&#96;&#96;&#96;flow</span><br><span class="line">st&#x3D;&gt;start: 开始框</span><br><span class="line">op&#x3D;&gt;operation: 处理框</span><br><span class="line">cond&#x3D;&gt;condition: 判断框(是或否?)</span><br><span class="line">sub1&#x3D;&gt;subroutine: 子流程</span><br><span class="line">io&#x3D;&gt;inputoutput: 输入输出框</span><br><span class="line">e&#x3D;&gt;end: 结束框</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;io-&gt;e</span><br><span class="line">cond(no)-&gt;sub1(right)-&gt;op</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">​&#96;&#96;&#96;flow</span><br><span class="line">st&#x3D;&gt;start: 开始框</span><br><span class="line">op&#x3D;&gt;operation: 处理框</span><br><span class="line">cond&#x3D;&gt;condition: 判断框(是或否?)</span><br><span class="line">sub1&#x3D;&gt;subroutine: 子流程</span><br><span class="line">io&#x3D;&gt;inputoutput: 输入输出框</span><br><span class="line">e&#x3D;&gt;end: 结束框</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;io-&gt;e</span><br><span class="line">cond(no)-&gt;sub1(right)-&gt;op</span><br><span class="line">​</span><br></pre></td></tr></table></figure>
+<pre><code>
+效果：
 
-<p>更多实例和源码可在开头提到的教程中看到，在此就不再提及。</p>
-]]></content>
+![流程图](https://i.loli.net/2020/06/13/iSZVC2Gu79zK6qc.png &quot;流程图&quot;)
+
+更多实例和源码可在开头提到的教程中看到，在此就不再提及。
+
+</code></pre>]]></content>
       <categories>
         <category>学习</category>
       </categories>
