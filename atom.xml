@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.lzdgames.cn/"/>
-  <updated>2020-06-10T02:40:09.213Z</updated>
+  <updated>2020-06-13T11:09:01.910Z</updated>
   <id>http://blog.lzdgames.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown基础语法学习</title>
+    <link href="http://blog.lzdgames.cn/2020/06/markdown-study/"/>
+    <id>http://blog.lzdgames.cn/2020/06/markdown-study/</id>
+    <published>2020-06-10T02:59:43.000Z</published>
+    <updated>2020-06-13T11:09:01.910Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://blog.lzdgames.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Markdown语法" scheme="http://blog.lzdgames.cn/tags/Markdown%E8%AF%AD%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>单独在夜间游玩时会获得额外娱乐价值——eversion超级小花</title>
